@@ -5,4 +5,5 @@ def checkuser(name):
     return False
 
 
-checkuser("kumar")
+status=checkuser("kumar")
+print(status)
