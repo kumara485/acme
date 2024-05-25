@@ -1,9 +1,53 @@
 def checkPass(password):
     if password == '1234':
-        return True
-    else :
+        
         return False
-
-
-status=checkPass('1234')
-print(status)
+    else :
+        return True
+okstatus=checkPass('1234')
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+s
+s
+s
+print(okstatus)
+print(okstatus)
+print(okstatus)
+okstatus=checkPass('1234')
