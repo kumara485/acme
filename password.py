@@ -1,10 +1,24 @@
-def checkPass(password):
+def passwordcheckonly(password):
     if password == '1234':
-        
-        return False
-    else :
         return True
-okstatus=checkPass('1234')
+        
+
+    else :
+        return False
+okstatus=passwordcheckonly('1234')
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
+print(okstatus)
 print(okstatus)
 print(okstatus)
 print(okstatus)
@@ -50,4 +64,6 @@ s
 print(okstatus)
 print(okstatus)
 print(okstatus)
-okstatus=checkPass('1234')
+okstatus=passwordcheckonly('1234')
+
+
